@@ -10,7 +10,7 @@
 - 🔭 I’m currently working in customer service for the **Swatch Group** in Colombia.
 - 🌱 I’m currently learning **Python**, **Bash Scripting** and, **MySQL**.
 - 👯 I’m looking to collaborate on **Open Source** projects.
-- 📚 Mastering: `.py`, `bash`, `MySQL`
+- 📚 Mastering: `.py`, `.sh`, `MySQL`
 
 ### 📬 Get in Touch
 
