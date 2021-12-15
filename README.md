@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![Javascript](https://img.shields.io/badge/Javascript-Intermediate-lightgrey)
-![Full-Stack](https://img.shields.io/badge/Full-Stack-Intermediate-orange)
+![FullStack](https://img.shields.io/badge/FullStack-Intermediate-orange)
 ![Automation](https://img.shields.io/badge/Automation-Basic-blue)
 
 ⚙️ Watchmaker with a great passion for programming
