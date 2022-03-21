@@ -14,6 +14,6 @@
 
 ### 📬 Get in Touch
 
-- LinkedIn: [Felipe Agudelo](https://www.linkedin.com/in/felipe-agudelo-g%C3%B3mez-99a37b190)
+- LinkedIn: [Felipe Agudelo](https://www.linkedin.com/in/felipe-agudelo-gomez-99a37b190/)
 
 ![Felipe Agudelo github stats](https://github-readme-stats.vercel.app/api?username=felipe1120gomez&show_icons=true&hide_border=true)
