@@ -5,10 +5,8 @@
 ![FullStack](https://img.shields.io/badge/FullStack-Intermediate-orange)
 ![Automation](https://img.shields.io/badge/Automation-Basic-blue)
 
-⚙️ Watchmaker with a great passion for programming
-
-- 🔭 I’m currently working in customer service for the **Swatch Group** in Colombia.
-- 🌱 I’m currently learning **Mern Stack**, **Django** and, **UX Desing**.
+- 🔭 I’m currently Full-Stack Developer at **Yobz** in Colombia.
+- 🌱 I’m currently learning **Java**, **Spring framework** and, **React Native**.
 - 👯 I’m looking to collaborate on **Open Source** projects.
 - 📚 Mastering: `.py`, `.js`
 
