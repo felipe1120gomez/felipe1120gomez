@@ -8,7 +8,7 @@
 - 🔭 I’m currently Full-Stack Developer at **Yobz** in Colombia.
 - 🌱 I’m currently learning **Java**, **Spring framework** and, **React Native**.
 - 👯 I’m looking to collaborate on **Open Source** projects.
-- 📚 Mastering: `.py`, `.js`
+- 📚 Mastering: `.java`, `.js`
 
 ### 📬 Get in Touch
 
