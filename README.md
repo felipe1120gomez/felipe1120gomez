@@ -1,7 +1,7 @@
 # Hello, I'm Felipe Agudelo 👋
 
-![NextJs](https://img.shields.io/badge/Python-Intermediate-pink)
-![Typescript](https://img.shields.io/badge/Javascript-Intermediate-blue)
+![NextJs](https://img.shields.io/badge/NextJs-Intermediate-pink)
+![Typescript](https://img.shields.io/badge/Typescript-Intermediate-blue)
 ![FullStack](https://img.shields.io/badge/FullStack-Intermediate-orange)
 ![Domain-Driven Design](https://img.shields.io/badge/DDD-Basic-green)
 
