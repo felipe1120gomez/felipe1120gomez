@@ -1,14 +1,13 @@
 # Hello, I'm Felipe Agudelo 👋
 
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![Javascript](https://img.shields.io/badge/Javascript-Intermediate-lightgrey)
+![NextJs](https://img.shields.io/badge/Python-Intermediate-pink)
+![Typescript](https://img.shields.io/badge/Javascript-Intermediate-blue)
 ![FullStack](https://img.shields.io/badge/FullStack-Intermediate-orange)
-![Automation](https://img.shields.io/badge/Automation-Basic-blue)
+![Domain-Driven Design](https://img.shields.io/badge/DDD-Basic-green)
 
 - 🔭 I’m currently Full-Stack Developer at **Yobz** in Colombia.
-- 🌱 I’m currently learning **Java**, **Spring framework** and, **React Native**.
 - 👯 I’m looking to collaborate on **Open Source** projects.
-- 📚 Mastering: `.java`, `.js`
+- 📚 Mastering: `Nest.js`, `GCP`
 
 ### 📬 Get in Touch
 
