@@ -3,11 +3,11 @@
 ![NextJs](https://img.shields.io/badge/NextJs-Intermediate-pink)
 ![Typescript](https://img.shields.io/badge/Typescript-Intermediate-blue)
 ![FullStack](https://img.shields.io/badge/FullStack-Intermediate-orange)
-![Domain-Driven Design](https://img.shields.io/badge/DDD-Basic-green)
+![DevOps](https://img.shields.io/badge/DevOps-Basic-green)
 
-- 🔭 I’m currently Full-Stack Developer at **Yobz** in Colombia.
+- 🔭 I’m currently pursuing a diploma in DevOps.
 - 👯 I’m looking to collaborate on **Open Source** projects.
-- 📚 Mastering: `Nest.js`, `GCP`
+- 📚 Mastering: `Nest.js`, `DevOps`, `AWS`
 
 ### 📬 Get in Touch
 
